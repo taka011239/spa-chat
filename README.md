@@ -4,5 +4,6 @@
 
 書籍のchatアプリを色々なFrameworkで実装してみる予定
 
-- angular2
-- redux
+- [x] 書籍original
+- [ ] angular2
+- [ ] redux
